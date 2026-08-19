@@ -1,0 +1,14 @@
+# 로컬 개발 도구 설정 (Claude Code 로컬 권한 설정, 사이트 콘텐츠 아님)
+.claude/settings.local.json
+
+# 실제 상호명·대표 실명이 노출된 구버전 원본 캡처 (익명화 이전 리사이즈 전 원본)
+# 필요 시 파일은 assets/images/_originals/ 에 그대로 보관되어 있으나 git 이력에는 남기지 않음
+assets/images/_originals/case-eden-search-1.jpg
+assets/images/_originals/case-eden-search-2.jpg
+
+# 작업용 임시/중복 이미지 (assets/images/case-naver-talktalk.jpg 로 이미 반영됨)
+assets/images/홈페이지톡톡2.jpg
+
+# OS 관련 잡파일
+Thumbs.db
+.DS_Store
